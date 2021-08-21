@@ -67,7 +67,8 @@ Attributes
 
 30 absences - number of school absences (numeric: from 0 to 93)
 
-Grades
+Grades:
+
 31 G1 - first period grade (numeric: from 0 to 20)
 
 31 G2 - second period grade (numeric: from 0 to 20)
