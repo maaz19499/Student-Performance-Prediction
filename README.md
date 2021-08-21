@@ -1,6 +1,6 @@
 # Student-Performance-Prediction
 
-Data Set from http://archive.ics.uci.edu/ml/datasets/Student+Performance#
+Data Set from https://archive.ics.uci.edu/ml/datasets/student+performance#
 
 Data Set Information:
 
